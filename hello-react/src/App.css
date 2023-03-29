@@ -1,0 +1,13 @@
+.App {
+  
+}
+
+.main{
+  background-color: #1F2535;
+  color: white;
+}
+
+.nav{
+  display: flex;
+  justify-content: space-between;
+}
